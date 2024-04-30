@@ -10,3 +10,6 @@ modal.addEventListener("click", (e)=>{
         modal.style.visibility = 'hidden'
     }
 })
+
+
+// 10-3 tuguldur
